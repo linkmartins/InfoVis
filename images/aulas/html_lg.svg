@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 900 650"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="html5_lg.svg">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>HTML5 Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="0.23046875"
+     inkscape:cx="-167.90941"
+     inkscape:cy="139.6384"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">HTML5 Logo</title>
+  <polygon
+     points="404.321,470.819 255.778,512 107.644,470.877 74.633,100.62 437.367,100.62 "
+     id="polygon6"
+     style="fill:#e44d26"
+     transform="matrix(1.2542373,0,0,1.2542373,137.02551,7.8305074)" />
+  <polygon
+     points="376.03,447.246 404.27,130.894 256,130.894 256,480.523 "
+     id="polygon8"
+     style="fill:#f16529"
+     transform="matrix(1.2542373,0,0,1.2542373,137.02551,7.8305074)" />
+  <path
+     d="m 272.96226,7.8305074 h 28.94403 V 36.427118 h 26.47695 V 7.8305074 h 28.94529 V 94.428068 H 328.38449 V 65.430101 H 301.90755 V 94.428068 H 272.96351 V 7.8305074 z"
+     id="path14"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 395.39087,36.547525 H 369.90978 V 7.8305074 h 79.92 V 36.547525 H 424.33741 V 94.428068 H 395.39212 V 36.547525 z"
+     id="path16"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 462.51389,7.8305074 H 492.6946 L 511.25982,38.258304 529.80623,7.8305074 h 30.192 V 94.428068 H 531.17334 V 51.505559 L 511.25982,82.29583 h -0.49793 L 490.83456,51.505559 V 94.428068 H 462.51389 V 7.8305074 z"
+     id="path18"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 574.40314,7.8305074 h 28.95282 V 65.803864 h 40.70376 V 94.428068 H 574.40314 V 7.8305074 z"
+     id="path20"
+     inkscape:connector-curvature="0" />
+</svg>
